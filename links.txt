@@ -1,0 +1,19 @@
+USEFUL LINKS
+
+Datasets: Helmet 
+Kaggle
+Roboflow (να τσεκάρουμε αν έχει τις ίδιες φώτο με το kaggle
+
+About Image Augmentation 
+Image Augmentation. Improving Deep learning models | by Sanchit Tanwar | Analytics Vidhya | Medium
+Image Augmentation Techniques | Image Augmentation for Deep Learning (analyticsvidhya.com)
+How to Configure Image Data Augmentation in Keras (machinelearningmastery.com)
+
+
+Useful Projects
+Face Mask Detection with Machine Learning (thecleverprogrammer.com)
+face-mask-detector/DetectFaceMask.py at master · datamagic2020/face-mask-detector (github.com)
+Real‐time automatic helmet detection of motorcyclists in urban traffic using improved YOLOv5 detector - Jia - 2021 - IET Image Processing - Wiley Online Library
+Face Mask Detection | Kaggle
+
+
